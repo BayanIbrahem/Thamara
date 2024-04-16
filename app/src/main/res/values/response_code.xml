@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="code_200">Success!</string>
+    <string name="code_201">New resource created</string>
+    <string name="code_202">Request accepted</string>
+    <string name="code_203">Information may not be from the original source</string>
+    <string name="code_204">No data to show</string>
+    <string name="code_205">Content has been reset</string>
+    <string name="code_206">Only part of the content is available</string>
+    <string name="code_207">Multiple status codes apply</string>
+
+    <string name="code_300">There are multiple options available. Please choose one.</string>
+    <string name="code_301">The content has been moved permanently to a new location.</string>
+    <string name="code_302">The content has been found, but it\'s temporarily located elsewhere.</string>
+    <string name="code_303">Please see a different resource for the information you\'re looking for.</string>
+    <string name="code_304">The content hasn\'t changed since your last request.</string>
+    <string name="code_305">You need to use a proxy server to access the content.</string>
+    <string name="code_306">Please switch to a different proxy server.</string>
+    <string name="code_307">You\'re being temporarily redirected to a new location.</string>
+    <string name="code_308">The content has been permanently moved to a new location.</string>
+
+    <string name="code_400">Oops! There was a problem with your request. Please double-check and try again.</string>
+    <string name="code_401">Hold on a second: It looks like you need to sign in first.</string>
+    <string name="code_402">We\'ll need a payment to access this.</string>
+    <string name="code_403">Sorry, you\'re not authorized to see this.</string>
+    <string name="code_404">Hmm… We can\'t seem to find what you\'re looking for.</string>
+    <string name="code_405">Whoops! That action isn\'t allowed here.</string>
+    <string name="code_406">Sorry, we can\'t accept that request.</string>
+    <string name="code_407">Authentication required through a proxy server. Please check your settings.</string>
+    <string name="code_408">The request timed out. Please try again.</string>
+    <string name="code_409">Uh oh, something\'s in conflict.</string>
+    <string name="code_410">Sorry, that\'s no longer available.</string>
+    <string name="code_411">We\'re missing some information here. Please provide a length.</string>
+    <string name="code_412">A precondition wasn\'t met. Let\'s check those requirements.</string>
+    <string name="code_413">That\'s a bit too much to handle. Could you try sending less?</string>
+    <string name="code_414">That request is a little too long. Can you shorten it up?</string>
+    <string name="code_415">We\'re not familiar with that media type.</string>
+    <string name="code_416">We can\'t fulfill that exact request range.</string>
+    <string name="code_417">The server couldn\'t meet those expectations.</string>
+    <string name="code_422">We\'re having trouble processing that.</string>
+    <string name="code_423">Hold on, that\'s locked for now.</string>
+    <string name="code_424">Something it depends on is missing.</string>
+    <string name="code_425">Whoa, too soon! Try again later.</string>
+    <string name="code_426">Time for an upgrade!</string>
+    <string name="code_429">Easy there! We\'re getting a lot of requests right now.</string>
+    <string name="code_431">Those request headers are a bit too big.</string>
+
+    <string name="code_500">Something went wrong on our end. Please try again later.</string>
+    <string name="code_501">This feature is not currently available.</string>
+    <string name="code_502">We\'re experiencing technical difficulties. Please try again later.</string>
+    <string name="code_503">We\'re currently down for maintenance. Please try again soon.</string>
+    <string name="code_504">It\'s taking longer than expected to process your request. Please try again.</string>
+    <string name="code_505">We don\'t support the version of HTTP you\'re using.</string>
+    <string name="code_506">We\'re unable to fulfill your request at this time.</string>
+    <string name="code_507">We\'re out of storage space. Please try again later.</string>
+</resources>

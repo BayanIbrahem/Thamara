@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "806542053815",
+    "project_id": "flash-cards-thamara",
+    "storage_bucket": "flash-cards-thamara.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806542053815:android:0eb1e6e4d114bf57149832",
+        "android_client_info": {
+          "package_name": "com.dev_bayan_ibrahim.flashcards"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtXeKWqzMmioGGq4lA_2rNJOSI_SdFPNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

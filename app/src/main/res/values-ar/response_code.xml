@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="code_200">نجاح!</string>
+    <string name="code_201">تم إنشاء مورد جديد</string>
+    <string name="code_202">تم قبول الطلب</string>
+    <string name="code_203">قد لا تكون المعلومات من المصدر الأصلي</string>
+    <string name="code_204">لا يوجد بيانات لعرضها</string>
+    <string name="code_205">تم إعادة تعيين المحتوى</string>
+    <string name="code_206">يتوفر جزء فقط من المحتوى</string>
+    <string name="code_207">تنطبق رموز حالة متعددة</string>
+
+    <string name="code_300">تتوفر خيارات متعددة. الرجاء اختيار واحد.</string>
+    <string name="code_301">تم نقل المحتوى نهائيًا إلى موقع جديد.</string>
+    <string name="code_302">تم العثور على المحتوى ، لكنه موجود مؤقتًا في مكان آخر.</string>
+    <string name="code_303">يرجى الاطلاع على مورد مختلف للمعلومات التي تبحث عنها.</string>
+    <string name="code_304">لم يتغير المحتوى منذ طلبك الأخير.</string>
+    <string name="code_305">تحتاج إلى استخدام خادم proxy للوصول إلى المحتوى.</string>
+    <string name="code_306">الرجاء التبديل إلى خادم proxy مختلف.</string>
+    <string name="code_307">يتم إعادة توجيهك مؤقتًا إلى موقع جديد.</string>
+    <string name="code_308">تم نقل المحتوى نهائيًا إلى موقع جديد.</string>
+
+    <string name="code_400">حدثت مشكلة في طلبك. يرجى التحقق والتجربة مرة أخرى.</string>
+    <string name="code_401">انتظر لحظة: يبدو أنك تحتاج إلى تسجيل الدخول أولاً.</string>
+    <string name="code_402">سنحتاج إلى دفعة للوصول إلى هذا.</string>
+    <string name="code_403">عذرا ، ليس لديك إذن لرؤية هذا.</string>
+    <string name="code_404">هـم ... لا يبدو أننا نستطيع العثور على ما تبحث عنه.</string>
+    <string name="code_405">عذرا! هذا الإجراء غير مسموح به هنا.</string>
+    <string name="code_406">عذرا ، لا يمكننا قبول هذا الطلب.</string>
+    <string name="code_407">المصادقة مطلوبة عبر خادم وكيل. يرجى التحقق من إعداداتك.</string>
+    <string name="code_408">انتهى وقت الطلب. الرجاء المحاولة مرة أخرى.</string>
+    <string name="code_409">آه ، هناك شيء في تعارض.</string>
+    <string name="code_410">عذرا ، لم يعد هذا متاحًا.</string>
+    <string name="code_411">هناك بعض المعلومات المفقودة هنا. يرجى تقديم الطول.</string>
+    <string name="code_412">لم يتم استيفاء شرط مسبق. دعونا نتحقق من تلك المتطلبات.</string>
+    <string name="code_413">هذا أكثر من اللازم للتعامل معه. هل يمكنك محاولة إرسال أقل؟</string>
+    <string name="code_414">هذا الطلب طويل قليلاً. هل يمكنك تقصيره؟</string>
+    <string name="code_415">نحن غير معتادين على نوع الوسائط هذا.</string>
+    <string name="code_416">لا يمكننا تلبية نطاق الطلب المحدد هذا.</string>
+    <string name="code_417">تعذر على الخادم تلبية تلك التوقعات.</string>
+    <string name="code_422">نواجه صعوبة في معالجة ذلك.</string>
+    <string name="code_423">انتظر قليلاً ، فهو مقفل الآن.</string>
+    <string name="code_424">هناك شيء يعتمد عليه مفقود.</string>
+    <string name="code_425">واو ، في وقت مبكر جدًا! حاول مرة أخرى لاحقا.</string>
+    <string name="code_426">حان وقت الترقية!</string>
+    <string name="code_429">سهل هناك! نتلقى الكثير من الطلبات الآن.</string>
+    <string name="code_431">عناوين طلب الرأس هذه كبيرة جدًا.</string>
+
+    <string name="code_500">حدث خطأ ما من جانبنا. الرجاء المحاولة مرة أخرى لاحقا.</string>
+    <string name="code_501">هذه الميزة غير متوفرة حاليا.</string>
+    <string name="code_502">نواجه صعوبات تقنية. الرجاء المحاولة مرة أخرى لاحقا.</string>
+    <string name="code_503">نحن حاليا متوقفون للصيانة. الرجاء المحاولة مرة أخرى قريبا.</string>
+    <string name="code_504">يستغرق معالجة طلبك وقتا أطول من المتوقع. الرجاء المحاولة مرة أخرى.</string>
+    <string name="code_505">لا ندعم إصدار HTTP الذي تستخدمه.</string>
+    <string name="code_506">نحن غير قادرين على تلبية طلبك في هذا الوقت.</string>
+    <string name="code_507">لقد نفدنا مساحة التخزين. الرجاء المحاولة مرة أخرى لاحقا.</string>
+</resources>

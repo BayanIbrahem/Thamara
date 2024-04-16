@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="deck">
+        <item quantity="one">deck</item>
+        <item quantity="other">%d decks</item>
+    </plurals>
+
+    <plurals name="card">
+        <item quantity="one">card</item>
+        <item quantity="other">%d cards</item>
+    </plurals>
+
+    <plurals name="collection">
+        <item quantity="one">collection</item>
+        <item quantity="other">%d collections</item>
+    </plurals>
+
+    <plurals name="rank">
+        <item quantity="one">rank</item>
+        <item quantity="other">%d ranks</item>
+    </plurals>
+
+    <plurals name="level">
+        <item quantity="one">level</item>
+        <item quantity="other">%d levels</item>
+    </plurals>
+
+    <plurals name="tag">
+        <item quantity="one">tag</item>
+        <item quantity="other">%d tags</item>
+    </plurals>
+
+    <plurals name="answer">
+        <item quantity="one">answer</item>
+        <item quantity="other">%d answers</item>
+    </plurals>
+
+    <plurals name="year">
+        <item quantity="one">year</item>
+        <item quantity="other">%d years</item>
+    </plurals>
+
+</resources>
