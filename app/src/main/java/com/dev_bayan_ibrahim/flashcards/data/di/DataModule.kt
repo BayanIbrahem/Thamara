@@ -11,6 +11,7 @@ import com.dev_bayan_ibrahim.flashcards.data.data_source.local.storage.FlashFile
 import com.dev_bayan_ibrahim.flashcards.data.data_source.local.storage.FlashFileManagerImpl
 import com.dev_bayan_ibrahim.flashcards.data.data_source.remote.uri_decerator.UriDirector
 import com.dev_bayan_ibrahim.flashcards.data.repo.FlashRepo
+import com.dev_bayan_ibrahim.flashcards.data.repo.FlashRepoFakeImpl
 import com.dev_bayan_ibrahim.flashcards.data.repo.FlashRepoImpl
 import dagger.Module
 import dagger.Provides
@@ -69,21 +70,35 @@ object DataModule {
 
     @Provides
     @Singleton
-    fun provideRepository(
+    fun provideFakeRepo(
         db: FlashDatabase,
         dataStore: DataStore<Preferences>,
         fileManager: FlashFileManager,
         json: Json,
         director: UriDirector,
         client: HttpClient,
-    ): FlashRepo = FlashRepoImpl(
+    ): FlashRepo = FlashRepoFakeImpl(
         db = db,
         preferences = DataStoreManager(dataStore),
         fileManager = fileManager,
-        json = json,
-        director = director,
-        client = client
     )
+//    @Provides
+//    @Singleton
+//    fun provideRepository(
+//        db: FlashDatabase,
+//        dataStore: DataStore<Preferences>,
+//        fileManager: FlashFileManager,
+//        json: Json,
+//        director: UriDirector,
+//        client: HttpClient,
+//    ): FlashRepo = FlashRepoImpl(
+//        db = db,
+//        preferences = DataStoreManager(dataStore),
+//        fileManager = fileManager,
+//        json = json,
+//        director = director,
+//        client = client
+//    )
 
     @OptIn(ExperimentalSerializationApi::class)
     @Provides
